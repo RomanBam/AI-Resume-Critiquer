@@ -2,6 +2,8 @@
 
 AI Resume Critiquer is a web application that allows users to upload their resume (PDF or TXT) and receive a detailed, AI-powered critique. The app leverages OpenAI's GPT models to provide feedback on content clarity, skills presentation, experience descriptions, and tailored suggestions for improvement.
 
+<img width="953" height="942" alt="Screenshot (499)" src="https://github.com/user-attachments/assets/ee899233-bd02-4902-8af1-ad2d5730eb0f" />
+
 ## Features
 - Upload your resume in PDF or TXT format
 - Specify a job role for targeted feedback (optional)
