@@ -41,6 +41,3 @@ streamlit run main.py
 ```
 
 The app will open in your browser. Upload your resume and receive instant feedback!
-
-## License
-MIT 
