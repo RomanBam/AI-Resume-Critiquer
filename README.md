@@ -37,7 +37,7 @@ Start the Streamlit app with uv:
 
 ```bash
 uv pip install streamlit  # (if not already installed)
-streamlit run main.py
+uv run streamlit run main.py
 ```
 
 The app will open in your browser. Upload your resume and receive instant feedback!
